@@ -13,3 +13,5 @@ repos:
       - id: check-shebang-scripts-are-executable
       - id: check-symlinks
       - id: check-toml
+      - id: check-vcs-permalinks
+        args: [--additional-github-domain, github.example.com]
