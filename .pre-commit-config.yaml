@@ -8,3 +8,4 @@ repos:
       - id: check-executables-have-shebangs
       - id: check-illegal-windows-names
       - id: check-json
+      - id: check-merge-conflict
