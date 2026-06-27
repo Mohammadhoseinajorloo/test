@@ -12,3 +12,4 @@ repos:
         args: [--assume-in-merge]
       - id: check-shebang-scripts-are-executable
       - id: check-symlinks
+      - id: check-toml
