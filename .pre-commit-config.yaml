@@ -16,3 +16,4 @@ repos:
       - id: check-vcs-permalinks
         args: [--additional-github-domain, github.example.com]
       - id: check-xml
+      - id: debug-statements
