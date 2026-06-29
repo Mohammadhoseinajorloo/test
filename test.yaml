@@ -1,0 +1,11 @@
+# Document 1
+---
+app: api
+version: "1.0"
+replice: 3
+
+# Document 2
+---
+app: worker
+version: "1.0"
+queue: jobs
